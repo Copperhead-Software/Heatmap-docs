@@ -9,7 +9,6 @@ make one request to this address:
 ``in React apps:``
 
 .. code-block:: javascript
-    ```
     import {useState} from 'react';
 
     const App = () => {
@@ -48,4 +47,3 @@ make one request to this address:
     };
 
     export default App;
-    ```
