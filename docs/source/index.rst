@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Copperhead Software's heatmap API documentation!
 ===================================
 
-**Copperhead Heatmap** (/lu'make/) is an HTTP API for easily mapping the most popular parts of your app or website, with an easy to use app
+**Copperhead Heatmap** is an HTTP API for easily mapping the most popular parts of your app or website, with an easy to use app.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
+   app
    api
