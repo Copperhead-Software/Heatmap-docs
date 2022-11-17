@@ -25,3 +25,5 @@ this is the gateway we use to populate the desktop app. you can get all the data
 ``/login/?user=USERNAME&password=PASSWORD``
 this is the gateway we use to login. it will return a UID if the login is successful.
 
+``/heatmap/?UID=UID&activity=ACTIVITY``
+this is the gateway we use to send activity data. it will return "Done" if the data is recorded successfully.
