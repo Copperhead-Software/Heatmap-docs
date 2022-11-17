@@ -4,6 +4,7 @@ API
 This is a fairly standard HTTP api. All you need is one request, pretty simple.
 
 elements of each request:
+:raw-html:`<br />`
 ``user``
 just your username, pretty simple
 
