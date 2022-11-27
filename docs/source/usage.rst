@@ -24,4 +24,4 @@ the app automatically spits out how many unique IP addresses have visited your s
 view the number of all-time clicks on your site. 
 
 ``option 2:``
-view the country data of all-time clicks on your site. this will show 
+view the country data of all-time clicks on your site. this will show the number of requests per country in descending order.
